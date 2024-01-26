@@ -62,7 +62,7 @@ __This is an italic text__
  public class main{
 
 public static void main (String [] args){
-
+System.out.println("Go to heaven!")
  }
 }
 
