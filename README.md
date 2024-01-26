@@ -128,7 +128,7 @@ https://github.com/suhelarmankhan
 ![profile](./images/me.png) 
 
 <!-- html syntax -->
-<img src="./images/me.png" width="200" height="200" title="Profile image" />
+<img src="./images/me.PNG" width="200" height="200" title="Profile image" />
 
 <br/>
 
