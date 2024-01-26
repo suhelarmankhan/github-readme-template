@@ -125,10 +125,10 @@ https://github.com/suhelarmankhan
 
 #### image syntax-->
 <!--markdown syntax-->
-![profile](./images/me.png) 
+![profile](./images/me.jpg) 
 
 <!-- html syntax -->
-<img src="./images/me.png" width="200" height="200" title="Profile image" />
+<img src="./images/me.jpg" width="200" height="200" title="Profile image" />
 
 <br/>
 
